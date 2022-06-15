@@ -1,1 +1,1 @@
-This is My second git projectoject of making Repo-session with non-empty README file
+Starting to code today, so cool
